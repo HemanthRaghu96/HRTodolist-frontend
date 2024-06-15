@@ -2,6 +2,7 @@
 import './App.css';
 
 // components
+//main 
 import Header from './components/Header';
 import TodoForm from './components/TodoForm';
 import Todos from './components/Todos';
